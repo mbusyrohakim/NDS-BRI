@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu_Organization_Account_Opening</name>
+   <tag></tag>
+   <elementGuidId>d5be6270-41bc-4a63-977b-663483782fd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/aside/div/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/nonmonetary/saving/organizationopening</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-item q-item-type row no-wrap q-item--clickable q-link cursor-pointer q-focusable q-hoverable</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>inboxOrganization Account Opening</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[@class=&quot;q-layout q-layout--standard&quot;]/div[@class=&quot;q-drawer-container text-body2&quot;]/aside[@class=&quot;q-drawer q-drawer--left q-drawer--bordered q-drawer--standard&quot;]/div[@class=&quot;q-drawer__content fit scroll&quot;]/div[@class=&quot;left-bar q-scrollarea&quot;]/div[@class=&quot;scroll relative-position fit hide-scrollbar&quot;]/div[@class=&quot;absolute full-width&quot;]/div[@class=&quot;q-list q-list--bordered q-list--separator&quot;]/div[2]/div[@class=&quot;q-expansion-item q-item-type dropdown-icon q-expansion-item--expanded q-expansion-item--standard&quot;]/div[@class=&quot;q-expansion-item__container relative-position&quot;]/div[@class=&quot;q-expansion-item__content relative-position&quot;]/div[2]/div[@class=&quot;q-expansion-item q-item-type q-expansion-item--expanded q-expansion-item--standard&quot;]/div[@class=&quot;q-expansion-item__container relative-position&quot;]/div[@class=&quot;q-expansion-item__content relative-position&quot;]/div[6]/a[@class=&quot;q-item q-item-type row no-wrap q-item--clickable q-link cursor-pointer q-focusable q-hoverable&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/aside/div/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[6]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saving'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Account Opening'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/nonmonetary/saving/organizationopening')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

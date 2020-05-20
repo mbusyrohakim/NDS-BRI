@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Approval</name>
+   <tag></tag>
+   <elementGuidId>4e09c175-9f76-4d76-8df4-f69d748a3d37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div[2]/main/div/div/div[2]/div[2]/div/div/div/button/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-btn__wrapper col row q-anchor--skip</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[@class=&quot;q-layout q-layout--standard&quot;]/div[@class=&quot;q-page-container&quot;]/main[@class=&quot;q-page&quot;]/div[@class=&quot;q-pa-md bkg-blue2&quot;]/div[@class=&quot;min-h-90&quot;]/div[@class=&quot;my-card m-t-20 q-card&quot;]/div[@class=&quot;p-20-200 q-card__section q-card__section--vert&quot;]/div[@class=&quot;q-gutter-md&quot;]/div[@class=&quot;q-stepper__nav flex flex-center&quot;]/div[@class=&quot;flex flex-center&quot;]/button[@class=&quot;q-btn q-btn-item non-selectable no-outline q-ml-sm btn btn-blue q-btn--standard q-btn--rectangle q-btn--actionable q-focusable q-hoverable q-btn--wrap&quot;]/div[@class=&quot;q-btn__wrapper col row q-anchor--skip&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div[2]/main/div/div/div[2]/div[2]/div/div/div/button/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User ID Supervisor'])[1]/following::div[12]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[1]/preceding::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
